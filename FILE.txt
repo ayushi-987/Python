@@ -1,0 +1,2 @@
+This python is used for learning the file operations in python.
+It has the reference on the file.py file.
