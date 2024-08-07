@@ -1,3 +1,5 @@
+# Get list of IP_Addresses along with their occurances in apache.log file.
+
 import re
 from collections import Counter
 import csv
